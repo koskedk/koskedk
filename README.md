@@ -1,7 +1,5 @@
 ### Hi there, I'm Danson Koske 👋
 
-<!--
-**koskedk/koskedk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## **I'm a Software Engineer and an avid DDD Enthusiast.**
 
